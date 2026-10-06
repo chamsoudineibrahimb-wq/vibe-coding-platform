@@ -1,0 +1,1 @@
+`references/models.json` is extracted from `src/lib/models.js`, and `scripts/muapi.py` is ported from `src/lib/muapi.js`. Both come from Open Higgsfield AI (https://github.com/Anil-matcha/Open-Higgsfield-AI, mirrored at https://github.com/Autom8AI/Open-Higgsfield-AI). The README declares that project MIT licensed; the repository ships no LICENSE file.
